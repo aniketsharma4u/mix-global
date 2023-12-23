@@ -69,7 +69,7 @@ p {
    color: #fff;
 }
 
-.bttn_color {
+.bttn_color,.bttn_color:hover, .bttn_color:active, .bttn_color:focus {
    background-color: #F67812;
    color: #fff;
 }
@@ -179,4 +179,6 @@ p {
    width: fit-content;
 }
 
-
+.form-control {
+   font-size: 12px;
+}

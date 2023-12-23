@@ -17,5 +17,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [SignupController::class, 'index'])->name('loginPage');
 Route::post('/registerUser', [SignupController::class, 'registerUser'])->name('registerUser');
+Route::post('/userLogin', [SignupController::class, 'userLogin'])->name('userLogin');
 Route::get('/products-list',[ProductController::class,'index'])->name('productList');
 Route::get('/product-details',[ProductController::class,'productDetails'])->name('productDetails');
