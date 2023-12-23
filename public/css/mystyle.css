@@ -1,0 +1,182 @@
+.phoneNavBar {
+   background-color: #00398F;
+}
+
+* {
+   font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+   color: #383838;
+}
+
+.logo {
+   font-family: 'Baumans';
+   font-size: 25px;
+}
+
+.fs-13 {
+   font-size: 13px;
+}
+
+.fs-12 {
+   font-size: 12px;
+}
+
+.fs-14 {
+   font-size: 14px;
+}
+
+.fs-11 {
+   font-size: 11px;
+}
+
+.fs-10 {
+   font-size: 10px;
+}
+
+.footer-company-overview-category img {
+   width: 40px;
+}
+
+.bottom-footer-sec {
+   background-color: #00398F;
+}
+
+.footer-links p {
+   font-size: 12px;
+   color: #fff;
+   margin-bottom: 8px;
+}
+
+.footer-links a {
+   font-size: 12px;
+   color: #fff;
+   margin-bottom: 8px;
+   text-decoration: none;
+}
+
+
+.footer-links h4 {
+   font-size: 14px;
+   font-weight: 600;
+   color: #fff;
+}
+
+.bttn_color {
+   background-color: #F67812;
+   color: #fff;
+}
+
+.orange-text {
+   color: #F67812;
+}
+
+.bttn_color:hover {
+   background-color: #F67812;
+   color: #fff;
+}
+
+.loginFormSec label {
+   font-size: 12px;
+}
+
+.form-control {
+   outline: none;
+   box-shadow: none !important;
+}
+
+.top-menu-searchbar input {
+   height: 20px;
+   font-size: 12px;
+   width: 300px;
+}
+
+.top-menu-searchbar img {
+   width: 18px;
+}
+
+.top-menu-searchbar button {
+   margin-left: -30px;
+}
+
+.top-search-bttn,
+.top-search-bttn:hover {
+   background-color: #F67812;
+   width: 30px;
+   height: 28px;
+}
+
+.productsListingSec {
+   background-color: #F5F5F5;
+}
+
+.productsCards .card,
+.productsCards .card-footer {
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   border-radius: 30px;
+   opacity: 1;
+   border: 0;
+}
+
+.productsCards .card-img-top {
+   border-top-left-radius: 30px;
+   border-top-right-radius: 30px;
+}
+
+.productsCards .productprice {
+   color: #F67812;
+}
+
+.productsCards .productTitle {
+   text-decoration: none;
+}
+
+.productsListingPagination span {
+   width: 26px;
+   height: 26px;
+   background-color: #F67812;
+   color: #fff;
+   padding: 5px;
+   font-size: 12px;
+   margin-right: 10px;
+}
+
+.productsListingPagination a {
+   text-decoration: none;
+   color: #fff;
+}
+
+
+.productQuantityButton span {
+   width: 26px;
+   height: 26px;
+   background-color: #F67812;
+   color: #fff;
+   padding: 2px;
+   font-size: 15px;
+   text-align: center;
+}
+
+.productQuantityButton a {
+   text-decoration: none;
+   color: #fff;
+}
+
+.text-muted {
+   color: #A7A7A7 !important;
+}
+
+.productMainDes h4 {
+   line-height: 2;
+   border-bottom: 2px solid #F67812;
+   width: fit-content;
+}
+
+
